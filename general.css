@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+.general-container{
+    display: grid;
+    grid-template-rows:1fr 3fr ;
+}
+
+body{
+    padding: 50px;
+}
